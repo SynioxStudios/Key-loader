@@ -723,8 +723,6 @@ local scripts = {
     {name = "⏰  Anti-Afk",             url ="https://raw.githubusercontent.com/SynioxStudios/Anti-Afk-ByYusuf/refs/heads/main/Anti-Afk.lua"},
     {name = "💪  Muscle Legends", url = "https://api.jnkie.com/api/v1/luascripts/public/4b0f6d75985c63aad62a07ec975564faad7bf730a5e414734f6237dfcafc4615/download"},
     {name = "⚡  Legends Of Speed",   url = "https://api.jnkie.com/api/v1/luascripts/public/35e4f062b067769db231f07ce7ad9cfba71f3b57e6605c07d02cdd888523b909/download"},
-    {name = "🥷  Ninja Legends",               url = "KENDİ URLNİ EKLE"},
-}
 
 local scriptButtons = {}
 
@@ -1018,5 +1016,6 @@ task.spawn(function()
     task.wait()
     playOpenAnim(MainContainer, 700, 250, 0.45)
 end)
+
 
 

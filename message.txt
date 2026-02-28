@@ -441,7 +441,7 @@ local FloatBtn = Instance.new("ImageButton")
 FloatBtn.Size = UDim2.new(0.78,0,0.78,0)
 FloatBtn.Position = UDim2.new(0.11,0,0.11,0)
 FloatBtn.BackgroundTransparency = 1
-FloatBtn.Image = "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=100560353880751"
+FloatBtn.Image = "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=119510932324044"
 FloatBtn.ScaleType = Enum.ScaleType.Fit
 FloatBtn.ZIndex = 99999999
 FloatBtn.Parent = FloatOuter
@@ -531,7 +531,7 @@ local keyLogoImg = Instance.new("ImageLabel")
 keyLogoImg.Size = UDim2.new(0, 40, 0, 40)
 keyLogoImg.Position = UDim2.new(0, 8, 0, 4)
 keyLogoImg.BackgroundTransparency = 1
-keyLogoImg.Image = "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=100560353880751"
+keyLogoImg.Image = "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=119510932324044"
 keyLogoImg.ScaleType = Enum.ScaleType.Fit
 keyLogoImg.ZIndex = 9999999
 keyLogoImg.Parent = RightFrame
@@ -1018,4 +1018,5 @@ task.spawn(function()
     task.wait()
     playOpenAnim(MainContainer, 700, 250, 0.45)
 end)
+
 
